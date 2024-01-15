@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dacb5871612dd6d2",
-        "type": "tabs",
-        "dimension": 58.14606741573034,
-        "children": [
-          {
-            "id": "fcee0d2944f95980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "119ae9e551b303ed",
         "type": "tabs",
-        "dimension": 41.85393258426966,
         "children": [
           {
             "id": "9c74938f1c169af8",
@@ -89,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5b57a9791ed6faa4",
@@ -166,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2193c8d0d282512",
+  "active": "9c74938f1c169af8",
   "lastOpenFiles": [
-    "create a link.md",
-    "Readme.md"
+    "Readme.md",
+    "create a link.md"
   ]
 }
