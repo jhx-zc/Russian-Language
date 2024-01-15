@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "падежи/ReadMe.md",
+                "file": "падежи/ReadMe.zh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "падежи/ReadMe.md",
+                "file": "падежи/ReadMe.zh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "падежи/ReadMe.md",
+                "file": "падежи/ReadMe.zh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "падежи/ReadMe.md"
+                "file": "падежи/ReadMe.zh.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "9c74938f1c169af8",
   "lastOpenFiles": [
+    "падежи/ReadMe.ru.md",
+    "падежи/ReadMe.zh.md",
     "падежи/именительный падеж.md",
-    "падежи/ReadMe.md",
     "Readme.md",
     "Untitled.md",
     "падежи",
